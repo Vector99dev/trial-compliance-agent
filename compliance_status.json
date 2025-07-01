@@ -1,0 +1,13 @@
+{
+  "entity": "Acme Corp",
+  "sanctions": {
+    "flagged": false
+  },
+  "pep": {
+    "flagged": true
+  },
+  "jurisdiction": {
+    "status": "pass",
+    "flagged_jurisdictions": []
+  }
+}
